@@ -23,6 +23,9 @@ THEN I am again presented with current and future conditions for that city
 
 ## Deployed Link
 
+## GitHub Repo
+https://github.com/ccline29/the-weather
+
 ## Screenshot
 <img width="1440" alt="Screenshot 2022-12-05 at 6 07 32 PM" src="https://user-images.githubusercontent.com/115193125/205859916-422de082-fad6-4200-8d4f-107c4b446a19.png">
 
