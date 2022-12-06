@@ -3,7 +3,8 @@
 ## The Challenge
 The purpose of this project is to show the current weather of city and a 5 day forecast.
 The User will be able to view temperature, wind speed and humidity. 
-Past searches will be stored for the users convenience When clicking on past searches, it will show current and future weather
+Past searches will be stored for the users convenience. 
+When clicking on past searches, it will show current and future weather
 
 ## User Story
 AS A traveler
