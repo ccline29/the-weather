@@ -22,6 +22,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 ## Deployed Link
+https://ccline29.github.io/the-weather/
 
 ## GitHub Repo
 https://github.com/ccline29/the-weather
